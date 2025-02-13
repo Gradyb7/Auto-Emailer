@@ -6,8 +6,8 @@ import smtplib
 import os
 
 # Your existing code to set up the email message
-my_email = "gradyburns56@gmail.com"
-password = "fqcp hswd kuds jldd"
+my_email = "REDACTED"
+password = "REDACTED"
 
 # Create the email connection
 connection = smtplib.SMTP("smtp.gmail.com", 587)
